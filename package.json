@@ -1,5 +1,6 @@
 {
-  "name": "@fancybear/react-native-searchable-dropdown",
+  "private": false,
+  "name": "react-native-searchable-dropdown-dev",
   "version": "1.0.0",
   "description": "Searchable Dropdown",
   "main": "index.js",
@@ -25,10 +26,13 @@
     "react searchable list",
     "react auto search dropdown"
   ],
-  "author": "DuongLT <duonglt.work@gmail.com>",
+  "author": "DuongLT",
   "license": "ISC",
   "repository": {
     "type": "git",
     "url": "https://github.com/DEVfancybear/react-native-searchable-dropdown.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DEVfancybear/react-native-searchable-dropdown/issues"
   }
 }

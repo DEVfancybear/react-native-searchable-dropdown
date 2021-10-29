@@ -17,7 +17,7 @@ Searchable Dropdown to help you search with in the list (`FlatList`), and you ca
 ## Installation
 
 ```bash
-npm install --save react-native-searchable-dropdown
+npm install --save react-native-searchable-dropdown-dev
 ```
 ## Properties
 <table>
