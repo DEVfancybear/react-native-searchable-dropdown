@@ -190,7 +190,15 @@ export default class SearchableDropDown extends Component {
       {
         key: 'placeholder',
         val: this.props.placeholder
-      }
+      },
+      {
+        key: 'disableFullscreenUI',
+        val: this.props.disableFullscreenUI,
+      },
+      {
+        key: 'returnKeyType',
+        val: this.props.returnKeyType,
+      },
     ];
     oldSupport.forEach((kv) => {
       if(!Object.keys(textInputProps).includes(kv.key)) {
